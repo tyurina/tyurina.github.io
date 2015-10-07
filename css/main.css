@@ -1,10 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-	html { 
-  background: url(pictures/screensaver/background.gif) no-repeat center center fixed; 
-  
-}
+	
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
