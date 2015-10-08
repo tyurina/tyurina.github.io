@@ -2,6 +2,7 @@ body {
     margin: 50px auto;
     width: 70%;
 	background-color:#E0FFFF;
+	background-image: url("space.jpg")
 	
 }
 nav ul, footer ul {
