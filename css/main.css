@@ -9,10 +9,9 @@ body {
 }
 jumbotron {
     position: relative;
-    background: #000 url("jumbotron-bg.png") center center;
-	background-image: url("waves-background.jpg");
-	 opacity: 0.4;
-    filter: alpha(opacity=40); /* For IE8 and earlier */
+    background: #000 url("waves-background.jpg") center center;
+	opacity: 0.4;
+	filter: alpha(opacity=40); /* For IE8 and earlier */
     width: 100%;
     height: 100%;
     background-size: cover;
