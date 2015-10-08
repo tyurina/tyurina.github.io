@@ -1,8 +1,10 @@
 body {
     margin: 50px auto;
     width: 70%;
-
 	background-image: url("space.jpg");
+	background-size:   cover;                     
+    background-repeat: no-repeat;
+    background-position: center center;
 	
 }
 nav ul, footer ul {
