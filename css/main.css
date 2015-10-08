@@ -1,7 +1,9 @@
 body {
     margin: 50px auto;
     width: 70%;
-	background-image: url("surfing-background.jpg");
+	background-image: url("ocean-background.jpg");
+	 opacity: 0.4;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
 	background-size:   cover;                     
     background-repeat: no-repeat;
     background-position: center center;
