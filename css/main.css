@@ -4,6 +4,8 @@ margin: 0;
 html {
 height: 100%;
 }
+
+/* sticky footer */
 .wrapper {
 min-height: 100%;
 height: auto !;
@@ -12,6 +14,17 @@ margin: 0 auto -4em;
 }
 .footer, .push {
 height: 4em;
+}
+
+/* project image stuff */
+.img-with-text {
+    text-align: justify;
+    width: [350];
+}
+
+.img-with-text img {
+    display: block;
+    margin: 0 auto;
 }
 
 body {
