@@ -4,9 +4,6 @@ body {
 	height:100%;
 }
 
-.center {
-    margin: 60px;
-    padding: 0px;
 }
 
 nav ul, footer ul {
@@ -40,7 +37,8 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-	background: none repeat scroll 0 0 #00FF00;
+	background: none repeat scroll 0 0 #0000FF;
+	text-align: center;
 }
 
 ul.posts { 
