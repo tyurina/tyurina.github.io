@@ -6,7 +6,7 @@ body {
 
 .center {
     margin: auto;
-    width: 60%;
+    width: "900";
     border:3px solid #333;
     padding: 10px;
 }
