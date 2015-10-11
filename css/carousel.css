@@ -33,8 +33,7 @@ body {
   width: auto;
 }
 
-/* Prevent strech of images
--------------------------------------------------- */
+
 
 
 }​
@@ -66,7 +65,7 @@ body {
   height: 300pxpx;
   size: cover;
   repeat: no-repeat;
- position: 100% 25%;
+ position: 100% 25%; /* prevents stretch */
 }
 
 
@@ -75,6 +74,7 @@ body {
 
 /* Center align the text within the three columns below the carousel */
 .marketing .col-lg-4 {
+	margin-bottom: 20px;
   margin-bottom: 20px;
   text-align: center;
 }
