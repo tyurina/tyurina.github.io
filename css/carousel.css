@@ -36,21 +36,7 @@ body {
 /* Prevent strech of images
 -------------------------------------------------- */
 
-.container
-     {
-      width:300px;
-     height:200px; 
-     display:block; 
-     position:relative;
-     overflow:hidden;
-     }
-.container img 
-    {
-     position:absolute;
-     top:0;
-     left:0; 
-     width:100%;
-     }
+
 }​
 
 /* CUSTOMIZE THE CAROUSEL
