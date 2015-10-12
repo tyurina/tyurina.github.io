@@ -87,7 +87,7 @@ body {
 }
 .marketing .img-circle {
 	position: 25% 25%;
-	object-fit: cover;
+	object-fit: cover; /* prevents stretch in circle images */
   
 	
 }
