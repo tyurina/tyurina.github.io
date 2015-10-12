@@ -62,8 +62,8 @@ body {
   top: 0;
   left: 0;
   width: 100%;
-  height: 300pxpx;
-  size: cover;
+  height: 300px;
+  size: contain;
   repeat: no-repeat;
  position: 100% 25%; /* prevents stretch */
 }
